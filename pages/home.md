@@ -10,3 +10,5 @@ eleventyNavigation:
 # Hello There,
 
 Thanks for checking out my site.
+
+I like coding
