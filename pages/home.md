@@ -7,9 +7,11 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Hello There,
+Hi, I’m Willis, and I’m addicted to coding.
 
-My name is Willis 
+I currently work as a Web Developer at [Noble Studios](https://noblestudios.com/) in Reno, NV. I graduated in May of 2019 with a bachelors in Computer Science & Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse). 
+
+My passion is creating things that people use and love.
 
 ### **Languages I use and love:** 
 
