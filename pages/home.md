@@ -11,7 +11,9 @@ Hi, I’m Willis, and I’m addicted to coding.
 
 I currently work as a Web Developer at [Noble Studios](https://noblestudios.com/) in Reno, NV. I graduated in May of 2019 with a bachelors in Computer Science & Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse). 
 
-My passion is creating things that people use and love.
+My passion is creating things that people use and love. I've recently developed an interest in electric vehicles and alternative transportation (See my two most recent side projects below). [Let me know](/contact/) if you'd like to work with me on anything related to those ideas.
+
+❤️: my current favorite
 
 ### **Languages I use and love:** 
 
