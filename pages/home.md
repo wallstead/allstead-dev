@@ -1,20 +1,37 @@
 ---
 layout: layouts/home.njk
 title: Home
-date: 2016-01-01T00:00:00.000Z
+date: 2021-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+Hi, I’m Willis, and I’m addicted to coding.
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+I currently work as a Web Developer at [Noble Studios](https://noblestudios.com/) in Reno, NV. I graduated in May of 2019 with a bachelors in Computer Science & Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse). 
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+My passion is creating things that people use and love. I've recently developed an interest in electric vehicles and alternative transportation (See my two most recent side projects below). [Let me know](/contact/) if you'd like to work with me on anything related to those ideas.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+❤️: my favorite right now
 
-Or click the button below to deploy your own copy of this project to Netlify.
+### **Languages I use and love:**
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+❤️Python, Swift, JavaScript, CSS (SCSS really), HTML (you decide if this counts), PHP (turns out it isn't that bad)
+
+### **Frameworks I've used recently:**
+
+❤️Django (Python), React (JS), Express (JS), Vue (JS), Vapor (Swift), WordPress (PHP)
+
+### **DBs I have the most experience in:**
+
+❤️PostgreSQL, MySQL
+
+### **Featured side-projects (newest first):**
+
+* [EVsnap](https://www.evsnap.com/): Buy & Sell Used Electric Cars (March 2020 - Present)
+* [EVword](https://evword.com/): EV News Site (December 2019 - Present)
+* [Fastme](https://apps.apple.com/us/app/fastme-fasting-tracker/id1451575216): Simple fasting tracker app (April 2019 - Present)
+* [Bwavy](http://www.bwavy.com/): Free Podcast Hosting (December 2017 - December 2019)
+
+  * Technically this site is still live and still functional, but I don't plan on providing continued support on it (I just can't bare the thought of killing it).
