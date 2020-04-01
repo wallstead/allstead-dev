@@ -1,9 +1,9 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "title": "Willis Allstead",
+  "url": "https://allstead.dev",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "github": "https://github.com/danurbanowicz"
+    "name": "Willis Allstead",
+    "email": "willis@allstead.dev",
+    "github": "https://github.com/wallstead"
   }
 }
