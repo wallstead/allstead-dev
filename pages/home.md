@@ -21,11 +21,11 @@ My passion is creating things that people use and love. I've recently developed 
 
 ### **Frameworks I've used recently:**
 
-❤️Django (Python), React (JS), Express (JS), Vue (JS), Vapor (Swift)
+❤️Django (Python), React (JS), Express (JS), Vue (JS), Vapor (Swift), WordPress (PHP)
 
-### **Database I have the most experience in:**
+### **DBs I have the most experience in:**
 
-❤️PostgreSQL
+❤️PostgreSQL, MySQL
 
 ### **Featured side-projects (newest first):**
 
