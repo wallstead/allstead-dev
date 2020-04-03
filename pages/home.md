@@ -13,6 +13,8 @@ I currently work as a Web Developer at [Noble Studios](https://noblestudios.com/
 
 My passion is creating things that people use and love. I've recently developed an interest in electric vehicles and alternative transportation (See my two most recent side projects below). [Let me know](/contact/) if you'd like to work with me on anything related to those ideas.
 
+[My GitHub](https://github.com/wallstead)
+
 ❤️: my favorite right now
 
 ### **Languages I use and love:**
