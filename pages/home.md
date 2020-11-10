@@ -7,16 +7,22 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-Hi, I’m Willis, and I’m addicted to coding.
+Hi, I’m Willis, and I love coding. Check out my [Personal GitHub](https://github.com/wallstead) to see some of my work or check out my [Work GitHub](https://github.com/willisallstead) to see that I have, in fact, been busy.
 
 <!-- ![Willis Allstead (me)](/static/img/willis-allstead.jpeg) -->
 <img class="my-portrait" src="/static/img/willis-allstead.jpeg" alt="Willis Allstead (me)">
 
+
+
 I've been working as a Web Developer at [Noble Studios](https://noblestudios.com/) in Reno, NV since May of 2018. I graduated in May of 2019 with a bachelors in Computer Science & Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse). 
 
-My passion is creating things that people use and love. I've recently developed an interest in electric vehicles and alternative transportation (See my most recent side projects below). [Let me know](/contact/) if you'd like to work with me on anything related to those ideas.
+My passion is creating things that people use and love. I've recently developed an interest in electric vehicles and alternative transportation (See my most recent side project below).
+
+-------
 
 ❤️: My favorite right now (subject to change)
+
+
 
 ### **Languages I use and love:**
 
