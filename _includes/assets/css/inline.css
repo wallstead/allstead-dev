@@ -1,7 +1,7 @@
 :root {
-	--turkey: #FFF0EB;
 	--white: white;
-	--blue: blue;
+	--blue: #fca311;
+	--bg: #14213d
 }
 
 *, *:before, *:after {
@@ -19,7 +19,8 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background-color: var(--bg);
+	color: var(--white);
 }
 
 main {
@@ -184,4 +185,12 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+}
+
+
+.my-portrait {
+	width: 300px;
+	border-radius: 150px;
+	vertical-align: bottom;
+	border: 5px solid var(--blue);
 }
