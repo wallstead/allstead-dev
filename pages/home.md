@@ -13,7 +13,7 @@ Hi, I’m Willis, and I love coding. Check out my [Personal GitHub](https://gith
 
 <img class="my-portrait" src="/static/img/willis-allstead.jpeg" alt="Willis Allstead (me)">
 
-I've been working as a Web Developer at [Noble Studios](https://noblestudios.com/) in Reno, NV since May of 2018. I graduated in May of 2019 with a bachelors in Computer Science & Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse). 
+I've been working as a Web Developer at [Noble Studios](https://noblestudios.com/) in Reno, NV since May of 2018. I get to work on some [really](https://travelnevada.com/) [cool](https://tahoesouth.com/) [websites](https://duncanchannon.com/). I graduated in May of 2019 with a bachelors in Computer Science & Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse). 
 
 My passion is creating things that people use and love. I'm currently working on an [accessibility testing](https://siteally.com) service called Siteally. (See my most recent project below).
 
@@ -23,7 +23,7 @@ My passion is creating things that people use and love. I'm currently working on
 
 ### **Languages I use and love:**
 
-Python, PHP, ❤️ JavaScript, CSS (SCSS really), HTML (you decide if it counts)
+❤️ JavaScript, Python, PHP, CSS (SCSS really), Swift, HTML (you decide if it counts)
 
 ### **Frameworks/CMSs I'm familiar with:**
 
