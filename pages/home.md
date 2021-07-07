@@ -38,7 +38,7 @@ My passion is creating things that people use and love. I'm currently working on
 * [Siteally](https://siteally.com/): Easier Website Accessibility (In progress)
 * [EVsnap](https://www.evsnap.com/): Buy & Sell Used Electric Cars (March 2020 - Present)
 * [Fastme](https://apps.apple.com/us/app/fastme-fasting-tracker/id1451575216): Simple fasting tracker app (April 2019 - February 2020)
-  * You can still download this app, it should work fine.
+  * I haven't worked on this in years, but it's still working.
 * [Bwavy](http://www.bwavy.com/): Free Podcast Hosting (December 2017 - December 2019)
   * Technically this site is still live and still functional, but I don't plan on providing continued support on it (I just can't bare the thought of killing it).
 
