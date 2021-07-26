@@ -7,9 +7,9 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-Hi, I’m Willis, and I love coding. Check out my [Personal GitHub](https://github.com/wallstead) to see some of my work or check out my [Work GitHub](https://github.com/willisallstead) to see that I have, in fact, been busy.
+Hey, I’m Willis. I like coding and creating stuff. Check out my [Personal GitHub](https://github.com/wallstead) to see some of my work or check out my [Work GitHub](https://github.com/willisallstead) to see that I have, in fact, been busy.
 
-<!-- !\[Willis Allstead (me)](/static/img/willis-allstead.jpeg) -->
+<!-- !\\[Willis Allstead (me)](/static/img/willis-allstead.jpeg) -->
 
 <img class="my-portrait" src="/static/img/willis-allstead.jpeg" alt="Willis Allstead (me)">
 
@@ -21,29 +21,31 @@ My passion is creating things that people use and love. I'm currently working on
 
 ❤️: My favorite right now (subject to change)
 
-### **Languages I use and love:**
+### **Languages I use and love**
 
 ❤️ JavaScript, Python, PHP, CSS (SCSS really), Swift, HTML (you decide if it counts)
 
-### **Frameworks/CMSs I'm familiar with:**
+### **Frameworks/CMSs I'm familiar with**
 
 ❤️ Next.js (React), Django (Python), React (JS), Express (JS), Vue (JS), Vapor (Swift), WordPress (PHP)
 
-### **DBs I have the most experience in:**
+### **DBs I have the most experience in**
 
 ❤️ PostgreSQL, MySQL
 
-### **Featured side-projects (newest first):**
+### **Featured side-projects (newest first)**
 
 * [Siteally](https://siteally.com/): Easier Website Accessibility (In progress)
 * [EVsnap](https://www.evsnap.com/): Buy & Sell Used Electric Cars (March 2020 - Present)
 * [Fastme](https://apps.apple.com/us/app/fastme-fasting-tracker/id1451575216): Simple fasting tracker app (April 2019 - February 2020)
+
   * I haven't worked on this in years, but it's still working.
 * [Bwavy](http://www.bwavy.com/): Free Podcast Hosting (December 2017 - December 2019)
+
   * Technically this site is still live and still functional, but I don't plan on providing continued support on it (I just can't bare the thought of killing it).
 
-### **Outside of work:**
+### Outside of Work
 
-I love doing things outdoors with friends and family. If I'm not working, I'm probably running, snowboarding, hiking, camping, backpacking, or playing tennis with friends!
+ If I’m not coding, I’m probably spending time with friends, listening to music, snowboarding, hiking, camping, backpacking, or planning one of those things!
 
-I also enjoy going out for coffee or tea, and if I'm home there's a near 100% chance I'm listening to a podcast.
+I also enjoy going out for coffee or tea, and if I'm home there's a good chance I'm listening to a podcast.
