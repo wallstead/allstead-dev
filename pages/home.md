@@ -50,4 +50,4 @@ My passion is creating things that people use and love. I'm currently working on
 
 I also enjoy going out for coffee or tea, and if I'm home there's a good chance I'm listening to a podcast.
 
-Want to get into contact? [Shoot me a message](allstead.dev/contact).
+Want to get into contact? [Shoot me a message](allstead.dev/contact/).
