@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 Hey, I’m Willis. I like coding and creating stuff. Check out my [Personal GitHub](https://github.com/wallstead) to see some of my work or check out my [Work GitHub](https://github.com/willisallstead) to see that I have, in fact, been busy.
 
-<!-- !\\[Willis Allstead (me)](/static/img/willis-allstead.jpeg) -->
+<!-- !\\\[Willis Allstead (me)](/static/img/willis-allstead.jpeg) -->
 
 <img class="my-portrait" src="/static/img/willis-allstead.jpeg" alt="Willis Allstead (me)">
 
@@ -49,3 +49,5 @@ My passion is creating things that people use and love. I'm currently working on
  If I’m not coding, I’m probably spending time with friends, listening to music, snowboarding, hiking, camping, backpacking, or planning one of those things!
 
 I also enjoy going out for coffee or tea, and if I'm home there's a good chance I'm listening to a podcast.
+
+Want to get into contact? [Shoot me a message](allstead.dev/contact).
