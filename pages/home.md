@@ -11,7 +11,7 @@ Hey, I’m Willis. I like coding and creating stuff. Check out my [Personal GitH
 
 <!-- !\\\[Willis Allstead (me)](/static/img/portrait.jpeg) -->
 
-<img class="my-portrait" src="/static/img/willis-allstead.jpeg" alt="Willis Allstead (me)">
+<img class="my-portrait" src="/static/img/portrait.jpeg" style="aspect-ratio: 1; object-fit: cover;" alt="Willis Allstead (me)">
 
 I've been working as a Web Developer at [Noble Studios](https://noblestudios.com/) in Reno, NV since May of 2018. I get to work on some [really](https://travelnevada.com/) [cool](https://tahoesouth.com/) [websites](https://duncanchannon.com/). I graduated in May of 2019 with a bachelors in Computer Science & Engineering from the [University of Nevada, Reno](https://www.unr.edu/cse). 
 
