@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 Hey, I’m Willis. I like coding and creating stuff. Check out my [Personal GitHub](https://github.com/wallstead) to see some of my work or check out my [Work GitHub](https://github.com/willisallstead) to see that I have, in fact, been busy.
 
-<!-- !\\\[Willis Allstead (me)](/static/img/willis-allstead.jpeg) -->
+<!-- !\\\[Willis Allstead (me)](/static/img/portrait.jpeg) -->
 
 <img class="my-portrait" src="/static/img/willis-allstead.jpeg" alt="Willis Allstead (me)">
 
