@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 Hey, I’m Willis. I like coding and creating stuff. Check out my [Personal GitHub](https://github.com/wallstead) to see some of my work or check out my [Work GitHub](https://github.com/willisallstead) to see that I have, in fact, been busy.
 
-<!-- !\\\\[Willis Allstead (me)](/static/img/portrait.jpeg) -->
+<!-- !\\\\\[Willis Allstead (me)](/static/img/portrait.jpeg) -->
 
 <img class="my-portrait" src="/static/img/portrait.jpeg" style="aspect-ratio: 1; object-fit: cover;" alt="Willis Allstead (me)">
 
@@ -19,19 +19,17 @@ My passion is creating things that people use and love. I'm currently working on
 
 - - -
 
-❤️: My favorite right now (subject to change)
-
 ### **Languages I use and love**
 
-❤️ JavaScript, Python, PHP, CSS (SCSS really), Swift, Ruby, HTML (you decide if it counts)
+JavaScript, Python, PHP, CSS (SCSS really), Swift, Ruby, HTML (you decide if it counts)
 
 ### **Frameworks/CMSs I'm familiar with**
 
-❤️ Next.js (React), Django (Python), React (JS), Express (JS), Vue (JS), Vapor (Swift), WordPress (PHP), Ruby on Rails
+Next.js (React), Django (Python), React (JS), Express (JS), Vue (JS), Vapor (Swift), WordPress (PHP), Ruby on Rails
 
 ### **DBs I have the most experience in**
 
-❤️ PostgreSQL, MySQL
+PostgreSQL, MySQL
 
 ### **Featured side-projects (newest first)**
 
